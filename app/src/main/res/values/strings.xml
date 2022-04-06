@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SubiteSV</string>
+    <string name="CorreoContraInvalidos">El correo o constraseña ingresados son incorrectos</string>
+    <string name="InicioSeccionExitoso">El inicio de sesión se realizó exitosamente</string>
+    <string name="CorreoContraObligatorios">El correo y la contraseña son obligatorios</string>
+    <string name="ContrasenaMayora6Digitos">La contraseña debe tener más de 6 caracteres</string>
+    <string name="IngreseTodoslosCampos">Debe completar todos los campos, para poder registrarse</string>
+    <string name="NosePudoRegistrar">No se pudo registrar el usuario, revise los datos ingresados</string>
+
+</resources>
